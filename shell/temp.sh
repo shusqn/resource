@@ -1,1 +1,1 @@
-ls
+curl ident.me
